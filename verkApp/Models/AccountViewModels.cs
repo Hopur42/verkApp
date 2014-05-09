@@ -11,6 +11,8 @@ namespace verkApp.Models
 
     public class ManageUserViewModel
     {
+        // Annað nýtt comment
+
         [Required]
         [DataType(DataType.Password)]
         [Display(Name = "Current password")]

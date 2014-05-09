@@ -22,6 +22,7 @@ namespace verkApp.Controllers
 
         public ActionResult Contact()
         {
+            // Nýtt Comment
             ViewBag.Message = "Your contact page.";
 
             return View();

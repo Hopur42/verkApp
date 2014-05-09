@@ -23,6 +23,7 @@ namespace verkApp.Controllers
         public ActionResult Contact()
         {
             // Nýtt Comment
+            // hversu mörg comment ætlum við að hafa?
             ViewBag.Message = "Your contact page.";
 
             return View();
